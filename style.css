@@ -1,0 +1,61 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: url(https://media3.giphy.com/media/MyWrJJIdAfoJuEPlLP/giphy.gif);
+    background-size: cover;
+    font-size: x-large;
+}
+
+
+
+form {
+    
+    
+    width: 500px;
+    height: 450px;
+    margin-left: 450px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+input {
+    width: 70%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+    margin-top: 50px;
+    
+}
+
+th, td {
+    border: 2px solid black;
+    padding: 4px;
+    text-align: center;
+    
+
+}
+
